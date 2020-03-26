@@ -8,5 +8,27 @@
     "impact": "This decision establishes some historical context behind prisoners' rights problems today - an early, wide understanding became formalized in a section of the canon of law: prisoners are to have no rights."
   },
   {
+    "title": "California v. Acevedo (1991)",
+    "date": "05-30-1991",
+    "court": "U.S. Supreme Court",
+    "link": "https://www.oyez.org/cases/1990/89-1690",
+    "info": "California police officers saw Charles Acevedo enter an apartment known to contain several packages of marijuana and left a short time later carrying a bag roughly the same size as one of the packages. The officers stopped him and searched his car, searched the bag, and found the marijuana. Acevedo appealed his denied motion to throw out the marijuana as evidence because it was found in a warrant-less search, and the Supreme Court had previously ruled that an officer required a warrant to search a closed container. The Supreme Court upheld a previously ruling allowing officers to thoroughly search a vehicle without warrant if they have probable cause to believe there is evidence in the vehicle.",
+    "impact": "Within a few years after Reagan declares the War on Drugs in 1982, the Supreme Court's regard of the Fourth Amendment begins to shift. Justice Stevens, dissenting - 'In the years [from 1982 to 1991], the Court has heard argument in 30 Fourth Amendment cases involving narcotics. ...All save two involved a search or seizure without a warrant or with a defective warrant. And, in all except three, the Court upheld the constitutionality of the search or seizure.'"
+  },
+  {
+    "title": "Terry v. Ohio (1968)",
+    "date": "06-10-1968",
+    "court": "U.S. Supreme Court",
+    "link": "https://www.oyez.org/cases/1967/67",
+    "info": "Terry and two men were observed by an officer to be engaging in 'casing' a building. The officer stopped and frisked them, and found weapons on two of them.",
+    "impact": "The Court's understanding of the Fourth Amendment shifts further. Stop-and-frisk rule established - 'so long as a police officer has 'reasonable articulable suspicion' that someone is engaged in criminal activity and dangerous' they can stop, question, and frisk them in the absence of probable cause. Judge Douglas dissented, fearing this would open the door to the police being free to conduct warrantless searches on the basis of perceived criminality."
+  },
+  {
+    "title": "Florida v. Bostick (1991)",
+    "date": "06-20-1991",
+    "court": "U.S. Supreme Court",
+    "link": "https://www.oyez.org/cases/1990/89-1717",
+    "info": "",
+    "impact": ""
   }
 ]
