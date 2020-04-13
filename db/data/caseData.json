@@ -28,6 +28,30 @@
     "date": "06-20-1991",
     "court": "U.S. Supreme Court",
     "link": "https://www.oyez.org/cases/1990/89-1717",
+    "info": "Terrance Bostick, 28-year-old African American, slept in the back seat of a Greyhound bus on his way from Miami to Atlanta. At a layover in  Fort Lauderdale, two police officers boarded the bus and asked the passengers for permission to search their luggage. Terrance complied, even though he knew his bag held cocaine. The officers had no basis for suspecting Bostick of criminal activity, but they happened to find cocaine; so they arrested Bostick, and he was charged and convicted of trafficking cocaine",
+    "impact": "Suspicionless police sweeps of buses in interstate travel became an increasingly common tactic in the War on Drugs. The Florida Supreme Court ruled that the police had violated the Fourth Amendment's prohibition of unreasonable search (as the police had not allowed the passengers the opportunity to leave the bus to avoid being questioned) and seizure and condemned 'bus sweeps' in general, and they overturned Bostick's conviction - but the U.S. Supreme Court reversed the decision. The Court ruled that Bostick was not 'seized' and that any 'reasonable person' in his circumstance should have felt free to leave and to not consent to the police's request to search their luggage. Prior to this reversal, lower courts had found the notion that 'reasonable people' would feel empowered to refuse to answer to police questioning absurd."
+  },
+  {
+    "title": "Schneckloth v. Bustamonte (1973)",
+    "date": "05-29-1973",
+    "court": "U.S. Supreme Court",
+    "link": "https://www.oyez.org/cases/1972/71-732",
+    "info": "A police officer stopped a car with a burned out headlight. There were six men in the car, including Robert Clyde Bustamonte. Only one passenger had a driver's license, and he complied to the officer's request to search the car. The officer found stolen checks, and Bustamonte was arrested and convicted of possessing checks with the intent to defraud. The U.S. Court of Appeals for the Ninth Circuit reversed on the basis that it must be proven that the person who gave consent to be searched knew that they had the right to refuse consent; but the U.S. Supreme Court held up the original conviction.",
+    "impact": "The Supreme Court decided that it was unnecessary to prove that the person who gave consent knew that they had the right to refuse - the Fourth Amendment's protection does not require you to knowingly waive your rights for you to do so, and that if consent had to be given knowingly, it would 'create serious doubt whether consent searches would continue to be conducted'. In other words, consent searches work because people feel unable to refuse consent to the police."
+  },
+  {
+    "title": "Whren v. United States (1996)",
+    "date": "06-10-1996",
+    "court": "U.S. Supreme Court",
+    "link": "https://www.oyez.org/cases/1995/95-5841",
+    "info": "",
+    "impact": ""
+  },
+  {
+    "title": "Ohio v. Robinette (1996)",
+    "date": "11-18-1996",
+    "court": "U.S. Supreme Court",
+    "link": "https://www.oyez.org/cases/1996/95-891",
     "info": "",
     "impact": ""
   }
