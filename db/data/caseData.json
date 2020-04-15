@@ -44,15 +44,23 @@
     "date": "06-10-1996",
     "court": "U.S. Supreme Court",
     "link": "https://www.oyez.org/cases/1995/95-5841",
-    "info": "",
-    "impact": ""
+    "info": "Michael Whren and James Brown, both African American, were stopped by plainclothes officers in an unmarked vehicle in June 1993. The officers admitted they wanted to investigate them for imagined drug crimes, though they did not have probable cause or reasonable suspicion - so they decided to pull them over on the pretext of a traffic violation. On approaching the vehicle, the officers saw Whren holding cocaine in plain view, and arrested the two of them.",
+    "impact": "Pretext stops are a very common police tactic where officers pull over vehicles, not motivated by a desire to enforce traffic laws, but by a desire to search for drugs in the absence of any evidence of illegal drug activity. Whren and Brown appealed on the ground that pretextual stops violate the Fourth Amendent - given the multitude of traffic and equipment regulations applicable at any time and the difficulty of obeying them all perfectly at all times, the police will nearly always be able to choose any motorist they may be arbitrarily suspicious any reason, pick a traffic violation as an excuse to pull them over, and perform a cause-less search. The Supreme Court rejected this argument, ruling that officers' state of mind and motivation are irrelevant when evaluating the reasonableness of their activity under the Fourth Amendment; under the Fourth Amendment they may stop motorists and conduct drug investigations regardless of relevant evidence, as long as they have a traffic violation as an excuse."
   },
   {
     "title": "Ohio v. Robinette (1996)",
     "date": "11-18-1996",
     "court": "U.S. Supreme Court",
     "link": "https://www.oyez.org/cases/1996/95-891",
-    "info": "",
-    "impact": ""
+    "info": "Robert Robinette was stopped for speeding. After checking his license, the officer ordered Robinette out of the car, asked him if he was carrying drugs or contraband, and if he would consent to a search. He did, and the officer found a small amount of marijuana and methamphetamine. He was convicted, which the Ohio Supreme Court reversed - they reasoned that the officers should be required to tell the motorists they are free to leave before asking to search their vehicles, in order to give them a chance to refuse consent to be searched. The U.S. Supreme Court held up the original conviction.",
+    "impact": "The U.S. Supreme Court held up the original conviction, stating that the Ohio Supreme Court's requirement was 'unrealistic.' In doing so, they helped cement the standard that the police are not required to inform those they stop and search that they can refuse consent to be searched."
+  },
+  {
+    "title": "Atwater v. City of Lago Vista (2001)",
+    "date": "04-24-2000",
+    "court": "U.S. Supreme Court",
+    "link": "https://www.oyez.org/cases/2000/99-1408",
+    "info": "Gail Atwater was driving her truck with her children in the front seat, neither of whom were wearing seatbelts. A misdemeanor in Texas law, an officer pulled her over for these violations, and placed her under arrest and in jail, to be released on bond. She filed suit claiming the officer had violated her Fourth Amendment right to be free from unreasonable seizure, but was denied.",
+    "impact": "The U.S. Supreme Court held that the Fourth Amendment does not forbid the police from arresting and jailing motorists 'if an officer has probable cause to believe [the motorist] has committed even a very minor criminal offence' (such as a minor traffic violation), even if the violation is punishable in statute only by fine. This means that regardless of whether you give consent to be searched by an officer performing a pretextual traffic stop, the officer has the legal grounds to arrest you."
   }
 ]
